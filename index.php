@@ -7,6 +7,7 @@
     <title>pHP</title>
 </head>
 <body>
+<a href="index.html">Back</a>
     <main>
         <p>Submit a form</p>
         <form class="submission-form" action="submissionform.php" method="post">
