@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(236, 236, 236);
+    color: rgb(26, 26, 26);
+    font-family: 'Roboto Slab', serif;
+
+}
+h1{
+    text-align: center;
+    font-weight: 900;
+    color:rgb(1, 0, 70);
+}
